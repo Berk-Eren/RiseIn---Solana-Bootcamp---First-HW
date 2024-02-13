@@ -1,8 +1,7 @@
 # How to run the project?
 
-You can run the project by simply running,
-
-node main.js <command>
+You can run the project by simply running with the following command
+* node main.js <command>
 
 Examples:
 * node main.js new
