@@ -1,6 +1,10 @@
+# Project Files
+* main.js
+* action.js  (includes project actions within the file)
+
 # How to run the project?
 
-You can run the project by simply running with the following command
+You can run the project by simply running with the following command,
 * node main.js \<command\>
 
 Examples:
